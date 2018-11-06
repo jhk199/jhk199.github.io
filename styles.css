@@ -13,7 +13,6 @@ h1 {
 	font-size: 2.5em;
 }
 h2	{
-	
 	text-align: center;
 		color: white;
 		background-color: gray;
@@ -23,7 +22,7 @@ h2	{
 			border: 5px solid white;
 			padding: 25px;
 }
-h4 {
+h3 {
 	position: sticky;
 	text-align: right;
 	bottom: 0;
@@ -53,4 +52,14 @@ a:active {
     color: White;
     background-color: transparent;
     text-decoration: underline;
+}
+p	{
+	color: white;
+	background-color: gray;
+		padding: 25px;
+			color: white;
+			font-family: bahnschrift;
+			font-size: 25px;
+			border: 5px solid white;
+			padding: 25px;
 }
